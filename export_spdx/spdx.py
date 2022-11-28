@@ -19,7 +19,7 @@ spdx_deprecated_dict = {
     'GPL-1.0+': 'GPL-1.0-or-later',
     'GPL-2.0-with-autoconf-exception': 'GPL-2.0-only',
     'GPL-2.0-with-bison-exception': 'GPL-2.0-only',
-    'GPL-2.0-with-classpath-exception': 'GPL-2.0-only',
+    'GPL-2.0-with-classpath-exception': 'GPL-2.0-only WITH Classpath-exception-2.0',
     'GPL-2.0-with-font-exception': 'GPL-2.0-only',
     'GPL-2.0-with-GCC-exception': 'GPL-2.0-only',
     'GPL-2.0': 'GPL-2.0-only',
